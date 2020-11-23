@@ -1,0 +1,2 @@
+# Non-Linear-Regression-model-China-DDP
+If the data shows a curvy trend, then linear regression will not produce very accurate results when compared to a non-linear regression because, as the name implies, linear regression presumes that the data is linear. Non linear regression models for different types of functions . In this notebook, we also fit a non-linear model to the datapoints corrensponding to China's GDP from 1960 to 2014 using python.
